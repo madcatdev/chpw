@@ -19,7 +19,7 @@
 	Executable name and path, which will be executed by this program.
 	If *.exe location is in current folder or in system32, path can be not specified.
 	File extension also can be not provided, for example: "notepad" instead of "notepad.exe"
-	If launch parameters does not contain symbols '\' or '/', you can add it here.
+	If launch parameters does not contain symbols "\" or "/", you can add it here.
 	Any type of executable file is supported, but only tested on .exe and .bat.
 	
 --params | -p:
