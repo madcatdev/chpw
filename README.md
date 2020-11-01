@@ -6,6 +6,7 @@ but instead of it, CHPW written on Delphi (Free Pascal) and has additional funct
 suspension checking. Executables can be launched in hidden or in visible mode. It works on Windows Vista and later.
 You will need [Lazarus IDE](https://www.lazarus-ide.org) for compilation.
 Or you can download [latest compiled version](https://github.com/madcatdev/chpw/releases).
+
 [Usage example](https://github.com/madcatdev/chpw/blob/master/usage_en.md)
 
 
