@@ -6,7 +6,7 @@ but instead of it, CHPW written on Delphi (Free Pascal) and has additional funct
 suspension checking. Executables can be launched in hidden or in visible mode. It works on Windows Vista and later.
 You will need [Lazarus IDE](https://www.lazarus-ide.org) for compolatin: 
 
-[**Usage example](https://github.com/madcatdev/chpw/blob/main/usage_en.md)
+[**Usage example](https://github.com/madcatdev/chpw/blob/master/usage_en.md)
 
 
 Это небольшая программа-лаунчер для различных исполняемых файлов. Она является развитием идеи [программы CHP](http://www.commandline.co.uk/chp/)
@@ -14,4 +14,4 @@ You will need [Lazarus IDE](https://www.lazarus-ide.org) for compolatin:
 Исполняемые файлы могут быть запущены как в скрытом режиме, так и в видимом. Работает под Windows Vista +
 Для компиляции потребуется [Lazarus IDE](https://www.lazarus-ide.org)
 
-[**Пример использования](https://github.com/madcatdev/chpw/blob/main/usage_ru.md)
+[**Пример использования](https://github.com/madcatdev/chpw/blob/master/usage_ru.md)
