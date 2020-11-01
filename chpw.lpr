@@ -210,7 +210,7 @@ procedure TMyApp.ParseParamsFPC;
   // Пример: -e "path/exefile" -p "-a -b -c" -c 3 -w 60 -l 5
 begin
   if HasOption('h', 'help') then begin
-    Writeln('No help here, see manual.');
+    Writeln('Help is not here, see https://github.com/madcatdev/chpw');
     Halt;
   end;
 
