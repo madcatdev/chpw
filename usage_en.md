@@ -1,19 +1,19 @@
-Usage:
+***Usage:
 
-Basic example:
+**Basic example:
   -e "notepad" -p "a -b -c" -c 3 -w 60 -l 5
   --exename="C:\Windows\System32\notepad.exe" --params="-a -b -c" --chkint=3 --wdtint=60 --launchmode=5
   
-Launch hidden Notepad window without any check:
+**Launch hidden Notepad window without any check:
 	-e "notepad" -l 0
 
-Launch visible Notepad window with existing check every 15 s (full path is given for example)
+**Launch visible Notepad window with existing check every 15 s (full path is given for example)
 	-e "C:\Windows\System32\notepad.exe" -l 5 -c 15 
 	
-Launch visible Notepad window with existing check every 15 s and suspension check every 30 s:
+**Launch visible Notepad window with existing check every 15 s and suspension check every 30 s:
 	-e "C:\Windows\System32\notepad.exe" -l 5 -c 15 -w 30 
 	
-Parameters explanation:
+**Parameters explanation:
 --exename | -e:
 	Executable name and path, which will be executed by this program.
 	If *.exe location is in current folder or in system32, path can be not specified.
