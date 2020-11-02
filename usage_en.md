@@ -44,8 +44,7 @@ If this parameter is omited, there will be no suspension check.
 
 	--launchmode | -l
 Process launch mode. 0 - hidden window (SW_HIDE), 5 - normal window (SW_SHOW).
-This parameter passes directly into StartupInfo.wShowWindow and can take any value [described here]
-(https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindow).
+This parameter passes directly into StartupInfo.wShowWindow and can take any value [described here](https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-showwindow).
 If this parameter is omited, there will be no process created.
 
 	--dirmode | -d
