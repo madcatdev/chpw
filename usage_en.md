@@ -37,7 +37,7 @@ process will be created and it PID will be stored in CHPW.
 If this parameter is omited, process will be created once.
 
 	--wdtint | -w
-Process suspension check interval, in seconds. Process will be considered as suspended if it ProcessCycleTime
+Process suspension check interval, in seconds. Process will be considered as suspended if it ProcessCycleTime have
 not increased during this interval. If process is suspended, it will be killed by CHPW and new process will be 
 created and it PID will be stored in CHPW.
 If this parameter is omited, there will be no suspension check.
